@@ -1,0 +1,6 @@
+{
+  "name": "AulaViva - Clases en Vivo de Inglés y Matemáticas para Venezuela",
+  "description": "Plataforma EdTech de clases interactivas en grupos pequeños vía Google Meet con tutores expertos, retroalimentación en directo con IA y pagos locales a Tasa BCV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
